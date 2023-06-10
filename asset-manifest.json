@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sawlatia/static/css/main.ae42ac5f.css",
+    "main.js": "/sawlatia/static/js/main.b64f1ba6.js",
+    "index.html": "/sawlatia/index.html",
+    "main.ae42ac5f.css.map": "/sawlatia/static/css/main.ae42ac5f.css.map",
+    "main.b64f1ba6.js.map": "/sawlatia/static/js/main.b64f1ba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.b64f1ba6.js"
+  ]
+}
