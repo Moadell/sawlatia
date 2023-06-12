@@ -27,7 +27,7 @@ const Header = ({
 
     return (
         <>
-            <header className="header-area header-style-1 header-height-2">
+            <header className="header-area header-style-1 header-height-2" dir="rtl">
                 <div className="mobile-promotion">
                     <span>
                         Grand opening, <strong>up to 15%</strong> off all items.
@@ -70,12 +70,12 @@ const Header = ({
                                         className="d-inline-block"
                                     >
                                         <ul>
-                                            <li>
+                                           {/*  <li>
                                                 Get great devices up to 50% off
                                                 <Link href="/shop-grid-right">
                                                     <a> View details</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </div>
                                 </div>
@@ -185,7 +185,7 @@ const Header = ({
                                 <Link href="/">
                                     <a>
                                         <img
-                                            src="/assets/imgs/theme/logo.svg"
+                                            src="/assets/imgs/theme/logo.png"
                                             alt="logo"
                                         />
                                     </a>
@@ -354,7 +354,7 @@ const Header = ({
                                 <Link href="/">
                                     <a>
                                         <img
-                                            src="/assets/imgs/theme/logo.svg"
+                                            src="/assets/imgs/theme/logo.png"
                                             alt="logo"
                                         />
                                     </a>
@@ -445,7 +445,7 @@ const Header = ({
                                 <div className="main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block  font-heading">
                                     <nav>
                                         <ul>
-                                            <li className="hot-deals">
+                                           {/*  <li className="hot-deals">
                                                 <img
                                                     src="/assets/imgs/theme/icons/icon-hot.svg"
                                                     alt="hot deals"
@@ -454,15 +454,15 @@ const Header = ({
                                                     Hot Deals
                                                 </a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                             <li>
                                                 <Link href="/">
                                                     <a className="active">
-                                                        Home
-                                                        <i className="fi-rs-angle-down"></i>
+                                                        الرئيسية
+                                                       {/*  <i className="fi-rs-angle-down"></i> */}
                                                     </a>
                                                 </Link>
-                                                <ul className="sub-menu">
+                                               {/*  <ul className="sub-menu">
                                                     <li>
                                                         <Link href="/">
                                                             <a>Home 1</a>
@@ -483,14 +483,14 @@ const Header = ({
                                                             <a>Home 4</a>
                                                         </Link>
                                                     </li>
-                                                </ul>
+                                                </ul> */}
                                             </li>
                                             <li>
                                                 <Link href="/page-about">
-                                                    <a>About</a>
+                                                    <a>من نحن</a>
                                                 </Link>
                                             </li>
-                                            <li>
+                                         {/*    <li>
                                                 <Link href="/shop-grid-right">
                                                     <a>
                                                         Shop
@@ -567,9 +567,9 @@ const Header = ({
                                                         </Link>
                                                     </li>
                                                 </ul>
-                                            </li>
+                                            </li> */}
 
-                                            <li>
+                                           {/*  <li>
                                                 <a href="#">Vendors <i className="fi-rs-angle-down"></i></a>
                                                 <ul className="sub-menu">
                                                     <li><Link href="/vendors"><a>Vendors Grid</a></Link></li>
@@ -577,12 +577,12 @@ const Header = ({
                                                     <li><Link href="/vendor-dashboard"><a>Vendor Dashboard</a></Link></li>
                                                     <li><Link href="/vendor-guide"><a>Vendor Guide</a></Link></li>
                                                 </ul>
-                                            </li>
+                                            </li> */}
 
                                             <li className="position-static">
                                                 <Link href="/#">
                                                     <a>
-                                                        Mega menu
+                                                        المنتجات
                                                         <i className="fi-rs-angle-down"></i>
                                                     </a>
                                                 </Link>
@@ -592,28 +592,25 @@ const Header = ({
                                                             className="menu-title"
                                                             href="#"
                                                         >
-                                                            Fruit & Vegetables
+                                                            Arabic
                                                         </a>
                                                         <ul>
                                                             <li>
                                                                 <a href="#">
-                                                                    Meat &
-                                                                    Poultry
+                                                                    رياض الاطفال
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    Fresh
-                                                                    Vegetables
+                                                                   الابتدائي
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    Herbs &
-                                                                    Seasonings
+                                                                   الاعدادي
                                                                 </a>
-                                                            </li>
-                                                            <li>
+                                                             </li>
+                                                           {/* <li>
                                                                 <a href="#">
                                                                     Cuts &
                                                                     Sprouts
@@ -626,12 +623,12 @@ const Header = ({
                                                                     Veggies
                                                                 </a>
                                                             </li>
-                                                            <li>
+                                                            <li> 
                                                                 <a href="#">
                                                                     Packaged
                                                                     Produce
                                                                 </a>
-                                                            </li>
+                                        </li> */}
                                                         </ul>
                                                     </li>
                                                     <li className="sub-mega-menu sub-mega-menu-width-22">
@@ -639,23 +636,20 @@ const Header = ({
                                                             className="menu-title"
                                                             href="#"
                                                         >
-                                                            Breakfast & Dairy
+                                                            English
                                                         </a>
                                                         <ul>
                                                             <li>
                                                                 <a href="#">
-                                                                    Milk &
-                                                                    Flavoured
-                                                                    Milk
+                                                                primary
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    Butter and
-                                                                    Margarine
+                                                                preparatory
                                                                 </a>
                                                             </li>
-                                                            <li>
+                                                           {/*  <li>
                                                                 <a href="#">
                                                                     Eggs
                                                                     Substitutes
@@ -675,7 +669,7 @@ const Header = ({
                                                                 <a href="#">
                                                                     Cheese
                                                                 </a>
-                                                            </li>
+                                                            </li> */}
                                                         </ul>
                                                     </li>
                                                     <li className="sub-mega-menu sub-mega-menu-width-22">
@@ -683,22 +677,20 @@ const Header = ({
                                                             className="menu-title"
                                                             href="#"
                                                         >
-                                                            Meat & Seafood
+                                                           French
                                                         </a>
                                                         <ul>
                                                             <li>
                                                                 <a href="#">
-                                                                    Breakfast
-                                                                    Sausage
+                                                                Niveau De Kindergaten
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    Dinner
-                                                                    Sausage
-                                                                </a>
+                                                                Niveau Primaire
+                                                              </a>
                                                             </li>
-                                                            <li>
+                                                            {/* <li>
                                                                 <a href="#">
                                                                     Chicken
                                                                 </a>
@@ -720,10 +712,53 @@ const Header = ({
                                                                     Crab and
                                                                     Shellfish
                                                                 </a>
-                                                            </li>
+                                                            </li> */}
                                                         </ul>
                                                     </li>
-                                                    <li className="sub-mega-menu sub-mega-menu-width-34">
+                                                    <li className="sub-mega-menu sub-mega-menu-width-22">
+                                                        <a
+                                                            className="menu-title"
+                                                            href="#"
+                                                        >
+                                                           Deutch
+                                                        </a>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="#">
+                                                                Kindergarten
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="#">
+                                                                Primar
+                                                                </a>
+                                                            </li>
+                                                            {/* <li>
+                                                                <a href="#">
+                                                                    Chicken
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="#">
+                                                                    Sliced Deli
+                                                                    Meat
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="#">
+                                                                    Wild Caught
+                                                                    Fillets
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="#">
+                                                                    Crab and
+                                                                    Shellfish
+                                                                </a>
+                                                            </li> */}
+                                                        </ul>
+                                                    </li>
+                                                    {/* <li className="sub-mega-menu sub-mega-menu-width-34">
                                                         <div className="menu-banner-wrap">
                                                             <a href="#">
                                                                 <img
@@ -761,17 +796,17 @@ const Header = ({
                                                                 </h3>
                                                             </div>
                                                         </div>
-                                                    </li>
+                                                    </li> */}
                                                 </ul>
                                             </li>
                                             <li>
                                                 <Link href="/blog-category-grid">
                                                     <a>
-                                                        Blog
-                                                        <i className="fi-rs-angle-down"></i>
+                                                        المقالات
+                                                        {/* <i className="fi-rs-angle-down"></i> */}
                                                     </a>
                                                 </Link>
-                                                <ul className="sub-menu">
+                                                {/* <ul className="sub-menu">
                                                     <li>
                                                         <Link href="/blog-category-grid">
                                                             <a>
@@ -838,9 +873,9 @@ const Header = ({
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                </ul>
+                                                </ul> */}
                                             </li>
-                                            <li>
+                                           {/*  <li>
                                                 <Link href="/#">
                                                     <a>
                                                         Pages
@@ -897,10 +932,10 @@ const Header = ({
                                                         </Link>
                                                     </li>
                                                 </ul>
-                                            </li>
+                                            </li> */}
                                             <li>
                                                 <Link href="/page-contact">
-                                                    <a>Contact</a>
+                                                    <a>تواصل معنا</a>
                                                 </Link>
                                             </li>
                                         </ul>

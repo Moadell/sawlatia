@@ -24,26 +24,20 @@ const Search = () => {
     };
     return (
         <>
-            <form>
+            <form dir="rtl">
                 <select className="select-active">
-                    <option>All Categories</option>
-                    <option>Women's</option>
-                    <option>Men's</option>
-                    <option>Cellphones</option>
-                    <option>Computer</option>
-                    <option>Electronics</option>
-                    <option> Accessories</option>
-                    <option>Home & Garden</option>
-                    <option>Luggage</option>
-                    <option>Shoes</option>
-                    <option>Mother & Kids</option>
+                    <option>كل اللغات</option>
+                    <option>Arabic</option>
+                    <option>English</option>
+                    <option>French</option>
+                    <option>Deutch</option>
                 </select>
                 <input
                     value={searchTerm}
                     onKeyDown={handleInput}
                     onChange={(e) => setSearchTerm(e.target.value)}
                     type="text"
-                    placeholder="Search"
+                    placeholder="بحث"
                 />
             </form>
         </>

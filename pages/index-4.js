@@ -15,7 +15,7 @@ import Intro4 from "./../components/sliders/intro4";
 function Test() {
     return (
         <>
-            <IntroPopup />
+             
             <Layout noBreadcrumb="d-none" headerStyle="header-style-1">
                 <section className="home-slider position-relative mb-30">
                     <div className="home-slide-cover">

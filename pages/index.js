@@ -15,7 +15,7 @@ import Link from "next/link";
 export default function Home() {
     return (
         <>
-            <IntroPopup />
+             
 
             <Layout noBreadcrumb="d-none">
                 <section className="home-slider position-relative mb-30">
@@ -26,7 +26,7 @@ export default function Home() {
                     </div>
                 </section>
 
-                <section className="popular-categories section-padding">
+                {/* <section className="popular-categories section-padding">
                     <div className="container wow animate__fadeIn animate__animated">
                         <div className="section-title">
                             <div className="title">
@@ -69,7 +69,7 @@ export default function Home() {
                             <Banner5 />
                         </div>
                     </div>
-                </section>
+                </section> */}
 
                 <section className="product-tabs section-padding position-relative">
                     <div className="container">

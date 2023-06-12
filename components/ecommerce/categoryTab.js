@@ -48,8 +48,8 @@ function CategoryTab() {
 
     return (
         <>
-            <div className="section-title style-2 wow animate__animated animate__fadeIn">
-                <h3>Popular Products</h3>
+            <div className="section-title style-2 wow animate__animated animate__fadeIn" dir="rtl">
+                <h3>أشهر المنتجات</h3>
                 <ul className="nav nav-tabs links" id="myTab" role="tablist">
                     <li className="nav-item" role="presentation">
                         <button
@@ -58,7 +58,7 @@ function CategoryTab() {
                             }
                             onClick={catPAll}
                         >
-                            All
+                            الكل
                         </button>
                     </li>
                     <li className="nav-item" role="presentation">
@@ -68,7 +68,7 @@ function CategoryTab() {
                             }
                             onClick={catP1}
                         >
-                            Featured
+                            المفضلة
                         </button>
                     </li>
                     <li className="nav-item" role="presentation">
@@ -78,7 +78,7 @@ function CategoryTab() {
                             }
                             onClick={catP2}
                         >
-                            Popular
+                            المشهورة
                         </button>
                     </li>
                     <li className="nav-item" role="presentation">
@@ -88,7 +88,7 @@ function CategoryTab() {
                             }
                             onClick={catP3}
                         >
-                            New added
+                            المضافه حديثا
                         </button>
                     </li>
                 </ul>

@@ -15,7 +15,7 @@ import Link from "next/link"
 function Test() {
     return (
         <>
-            <IntroPopup />
+             
             <Layout noBreadcrumb="d-none" headerStyle="header-style-1">
                 <div className="container mb-30">
                     <div className="row flex-row-reverse">

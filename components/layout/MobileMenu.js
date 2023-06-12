@@ -42,7 +42,7 @@ const MobileMenu = ({ isToggled, toggleClick }) => {
                             <Link href="/">
                                 <a>
                                     <img
-                                        src="/assets/imgs/theme/logo.svg"
+                                        src="/assets/imgs/theme/logo.png"
                                         alt="logo"
                                     />
                                 </a>
