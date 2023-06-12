@@ -7,9 +7,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "sass": "node-sass --watch public/assets/sass/main.scss public/assets/css/main.css --source-map public/assets/css/main.css.map",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d public"
+        "sass": "node-sass --watch public/assets/sass/main.scss public/assets/css/main.css --source-map public/assets/css/main.css.map"
     },
     "dependencies": {
         "bootstrap": "^5.1.3",
