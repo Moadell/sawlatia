@@ -79,11 +79,11 @@ export default function Home() {
                     </div>
                 </section>
 
-                <section className="section-padding pb-5">
+               {/*  <section className="section-padding pb-5">
                     <div className="container">
                         <FetchTabSlider />
                     </div>
-                </section>
+                </section> */}
 
                 <section className="section-padding pb-5">
                     <div className="container">

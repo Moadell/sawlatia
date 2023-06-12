@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <>
             <footer className="main">
-                <section className="newsletter mb-15  wow animate__animated animate__fadeIn">
+               {/*  <section className="newsletter mb-15  wow animate__animated animate__fadeIn">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -159,7 +159,7 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
                 <section className="section-padding footer-mid">
                     <div className="container pt-15 pb-20">
                         <div className="row">
