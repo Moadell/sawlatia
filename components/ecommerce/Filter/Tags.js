@@ -7,9 +7,9 @@ const Tags = ({ updateProductFilters }) => {
     const router = useRouter();
     const tags = [
         { value: "" },
-        { value: "snack" },
-        { value: "milk" },
-        { value: "fruit" },
+        { value: "kindergarden" },
+        { value: "primary" },
+        { value: "preparatory" },
         { value: "broccoli" },
         { value: "salad" },
         { value: "appetizer" },

@@ -18,7 +18,7 @@ const Intro1 = () => {
                 }}
                 className="hero-slider-1 style-4 dot-style-1 dot-style-1-position-1"
             >
-                <SwiperSlide>
+                <SwiperSlide >
                     <div
                         className="single-hero-slider single-animation-wrap"
                         style={{
@@ -28,20 +28,20 @@ const Intro1 = () => {
                     >
                         <div className="slider-content">
                             <h1 className="display-2 mb-40">
-                                Don’t miss amazing
+                                الدار الصولتية
                                 <br />
-                                grocery deals
+                                للنشر والتوزيع
                             </h1>
                             <p className="mb-65">
-                                Sign up for the daily newsletter
+                            اشترك بالنشرة الاخبارية  ليصلك كل جديد
                             </p>
                             <form className="form-subcriber d-flex">
                                 <input
                                     type="email"
-                                    placeholder="Your emaill address"
+                                    placeholder="البريد الالكتروني"
                                 />
                                 <button className="btn" type="submit">
-                                    Subscribe
+                                اشتراك
                                 </button>
                             </form>
                         </div>

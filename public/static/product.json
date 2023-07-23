@@ -108,7 +108,7 @@
             "purple"
         ],
         "weight": 150,
-        "tags": "broccoli",
+        "tags": "primary",
         "sizes": "s",
         "review": 10,
         "rating": 4,
@@ -854,7 +854,7 @@
             "purple"
         ],
         "weight": 150,
-        "tags": "snack",
+        "tags": "primary",
         "sizes": "s",
         "stock": 8,
         "review": 10,

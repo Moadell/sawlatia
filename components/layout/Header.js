@@ -29,12 +29,12 @@ const Header = ({
         <>
             <header className="header-area header-style-1 header-height-2" dir="rtl">
                 <div className="mobile-promotion">
-                    <span>
+                   {/*  <span>
                         Grand opening, <strong>up to 15%</strong> off all items.
                         Only <strong>3 days</strong> left
-                    </span>
+                    </span> */}
                 </div>
-                <div className="header-top header-top-ptb-1 d-none d-lg-block">
+              {/*   <div className="header-top header-top-ptb-1 d-none d-lg-block">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-xl-3 col-lg-4">
@@ -75,7 +75,7 @@ const Header = ({
                                                 <Link href="/shop-grid-right">
                                                     <a> View details</a>
                                                 </Link>
-                                            </li> */}
+                                            </li> ///
                                         </ul>
                                     </div>
                                 </div>
@@ -177,7 +177,7 @@ const Header = ({
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 <div className="header-middle header-middle-ptb-1 d-none d-lg-block">
                     <div className="container">
                         <div className="header-wrap">
@@ -191,13 +191,13 @@ const Header = ({
                                     </a>
                                 </Link>
                             </div>
-                            <div className="header-right">
-                                <div className="search-style-2">
+                            <div className="header-right" >
+                                <div className="search-style-2" dir="ltr">
                                     <Search />
                                 </div>
-                                <div className="header-action-right">
+                                <div className="header-action-right" dir = "ltr">
                                     <div className="header-action-2">
-                                        <div className="search-location">
+                                        {/* <div className="search-location">
                                             <form action="#">
                                                 <select className="select-active">
                                                     <option>
@@ -218,7 +218,7 @@ const Header = ({
                                                     <option>New York</option>
                                                 </select>
                                             </form>
-                                        </div>
+                                        </div> */}
                                         <div className="header-action-icon-2">
                                             <Link href="/shop-compare">
                                                 <a>

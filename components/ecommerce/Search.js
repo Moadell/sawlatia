@@ -24,7 +24,7 @@ const Search = () => {
     };
     return (
         <>
-            <form dir="rtl">
+            <form >
                 <select className="select-active">
                     <option>كل اللغات</option>
                     <option>Arabic</option>
@@ -37,7 +37,7 @@ const Search = () => {
                     onKeyDown={handleInput}
                     onChange={(e) => setSearchTerm(e.target.value)}
                     type="text"
-                    placeholder="بحث"
+                    placeholder=""
                 />
             </form>
         </>
