@@ -31,7 +31,7 @@
         "vendor": "nestFood",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -89,7 +89,7 @@
         "vendor": "stouffer",
         "color": "blue",
         "brand": "armani",
-        "category": "jeans",
+        "category": "English",
         "featured": true,
         "trending": false,
         "discount": {
@@ -108,7 +108,7 @@
             "purple"
         ],
         "weight": 150,
-        "tags": "broccoli",
+        "tags": "primary",
         "sizes": "s",
         "review": 10,
         "rating": 4,
@@ -260,7 +260,7 @@
         "vendor": "NestFood",
         "color": "red",
         "brand": "NestFood",
-        "category": "shoe",
+        "category": "Arabic",
         "featured": true,
         "trending": false,
         "discount": {
@@ -317,7 +317,7 @@
         "vendor": "NestFood",
         "color": "green",
         "brand": "helix",
-        "category": "jeans",
+        "category": "English",
         "featured": true,
         "trending": false,
         "discount": {
@@ -431,7 +431,7 @@
         "vendor": "NestFood",
         "color": "blue",
         "brand": "armani",
-        "category": "shoe",
+        "category": "Arabic",
         "featured": true,
         "trending": true,
         "discount": {
@@ -659,7 +659,7 @@
         "vendor": "adidas",
         "color": "green",
         "brand": "helix",
-        "category": "jeans",
+        "category": "English",
         "featured": true,
         "trending": false,
         "discount": {
@@ -717,7 +717,7 @@
         "vendor": "iSnack",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -776,7 +776,7 @@
         "vendor": "stouffer",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -835,7 +835,7 @@
         "vendor": "Harris",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -854,7 +854,7 @@
             "purple"
         ],
         "weight": 150,
-        "tags": "snack",
+        "tags": "primary",
         "sizes": "s",
         "stock": 8,
         "review": 10,
@@ -906,7 +906,7 @@
         "vendor": "Costco",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -977,7 +977,7 @@
         "vendor": "Costco",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -1048,7 +1048,7 @@
         "vendor": "stouffer",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -1119,7 +1119,7 @@
         "vendor": "stouffer",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {
@@ -1190,7 +1190,7 @@
         "vendor": "stouffer",
         "color": "blue",
         "brand": "armani",
-        "category": "clothing",
+        "category": "Arabic",
         "featured": false,
         "trending": true,
         "discount": {

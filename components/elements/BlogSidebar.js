@@ -18,10 +18,10 @@ const BlogSidebar = () => {
                     <h5 className="section-title style-1 mb-30">Category</h5>
                     <ul>
                         <li>
-                            <Link href="/products"><a> <img src="/assets/imgs/theme/icons/category-1.svg" alt="" />Milks & Dairies</a></Link><span className="count">30</span>
+                            <Link href="/products"><a> <img src="/assets/imgs/theme/icons/category-1.svg" alt="" />English</a></Link><span className="count">30</span>
                         </li>
                         <li>
-                            <Link href="/products"><a> <img src="/assets/imgs/theme/icons/category-2.svg" alt="" />Clothing</a></Link><span className="count">35</span>
+                            <Link href="/products"><a> <img src="/assets/imgs/theme/icons/category-2.svg" alt="" />Arabic</a></Link><span className="count">35</span>
                         </li>
                         <li>
                             <Link href="/products"><a> <img src="/assets/imgs/theme/icons/category-3.svg" alt="" />Pet Foods </a></Link><span className="count">42</span>
