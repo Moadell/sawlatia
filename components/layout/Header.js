@@ -406,7 +406,7 @@ const Header = ({
                                                                 src="/assets/imgs/theme/icons/icon-2.svg"
                                                                 alt=""
                                                             />
-                                                            Clothing & beauty
+                                                            Arabic & beauty
                                                         </a></Link>
                                                     </li>
                                                 </ul>
@@ -434,12 +434,7 @@ const Header = ({
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div className="more_categories">
-                                            <span className="icon"></span>{" "}
-                                            <span className="heading-sm-1">
-                                                Show more...
-                                            </span>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <div className="main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block  font-heading">

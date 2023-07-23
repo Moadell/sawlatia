@@ -9,14 +9,14 @@ const data = [
     {
         id: 1,
         title: "Cake & Milk",
-        slug: "jeans",
+        slug: "English",
         img: "cat-13.png",
         bg: "bg-9"
     },
     {
         id: 2,
         title: "Oganic Kiwi",
-        slug: "shoe",
+        slug: "Arabic",
         img: "cat-12.png",
         bg: "bg-10"
     },

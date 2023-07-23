@@ -22,7 +22,7 @@ function CategoryTab() {
     const catP1 = async () => {
         const request = await fetch(`${server}/static/product.json`);
         const allProducts = await request.json();
-        const cat1Item = allProducts.filter((item) => item.category == "jeans");
+        const cat1Item = allProducts.filter((item) => item.category == "English");
         setCat1(cat1Item);
         setActive("2");
     };
@@ -30,7 +30,7 @@ function CategoryTab() {
     const catP2 = async () => {
         const request = await fetch(`${server}/static/product.json`);
         const allProducts = await request.json();
-        const cat2Item = allProducts.filter((item) => item.category == "shoe");
+        const cat2Item = allProducts.filter((item) => item.category == "Arabic");
         setCat2(cat2Item);
         setActive("3");
     };

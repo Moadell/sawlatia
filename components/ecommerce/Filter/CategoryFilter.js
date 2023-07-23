@@ -14,8 +14,8 @@ const CategoryFilter = ({ updateProductCategory }) => {
 
     const categories = [
         { title: "" },
-        { title: "jeans" },
-        { title: "shoe" },
+        { title: "English" },
+        { title: "Arabic" },
         { title: "jacket" },
         { title: "trousers" },
         { title: "accessories" },

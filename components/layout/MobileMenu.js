@@ -84,7 +84,7 @@ const MobileMenu = ({ isToggled, toggleClick }) => {
                                            <Link href="/shop-grid-right">
                                                 <a>
                                                     <i className="evara-font-dress"></i>
-                                                    Women's Clothing
+                                                    Women's Arabic
                                                 </a>
                                             </Link>
                                         </li>
@@ -92,7 +92,7 @@ const MobileMenu = ({ isToggled, toggleClick }) => {
                                            <Link href="/shop-grid-right">
                                                 <a>
                                                     <i className="evara-font-tshirt"></i>
-                                                    Men's Clothing
+                                                    Men's Arabic
                                                 </a>
                                             </Link>
                                         </li>
