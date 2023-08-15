@@ -71,7 +71,7 @@ const Products = ({ products, productFilters, fetchProduct }) => {
         <>
             <Layout noBreadcrumb="d-none">
             <Breadcrumb2/>
-                <section className="mt-50 mb-50">
+                <section className="mt-50 mb-50" dir="rtl">
                     <div className="container mb-30">
                         <div className="row flex-row-reverse">
                             <div className="col-lg-4-5">

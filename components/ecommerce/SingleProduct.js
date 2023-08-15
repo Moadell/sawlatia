@@ -92,7 +92,7 @@ const SingleProduct = ({
                         )}
                     </div>
                 </div>
-                <div className="product-content-wrap">
+                <div className="product-content-wrap" dir="rtl">
                     <div className="product-category">
                         <Link href="/products">
                             <a>{product.brand}</a>
@@ -107,7 +107,7 @@ const SingleProduct = ({
                         </Link>
                     </h2>
 
-                    <div className="product-rate-cover">
+                 {/*    <div className="product-rate-cover">
                         <div className="product-rate d-inline-block">
                             <div
                                 className="product-rating"
@@ -139,7 +139,7 @@ const SingleProduct = ({
                                 <i className="fi-rs-shopping-cart mr-5"></i> Add
                             </a>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </>

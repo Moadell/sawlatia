@@ -46,7 +46,7 @@ const ProductDetails = ({
 
     return (
         <>
-            <section className="mt-50 mb-50">
+            <section className="mt-50 mb-50" dir="rtl">
                 <div className="container">
                     <div className="row flex-row-reverse">
                         <div className="col-xl-10 col-lg-12 m-auto">
@@ -65,17 +65,25 @@ const ProductDetails = ({
                                     </div>
                                     <div className="col-md-6 col-sm-12 col-xs-12">
                                         <div className="detail-info  pr-30 pl-30">
-                                            <span className="stock-status out-stock"> Sale Off </span>
-                                            <h2 className="title-detail">{product.title}</h2>
-                                            <div className="product-detail-rating">
-                                                <div className="product-rate-cover text-end">
+                                         {/*    <span className="stock-status out-stock"> Sale Off </span> */}
+                                            <h2 className="">{product.title}</h2>
+                                            {/* <div className="product-detail-rating" >
+                                                <div className="product-rate-cover text-end" dir="ltr">
                                                     <div className="product-rate d-inline-block">
                                                         <div className="product-rating" style={{ width: "90%" }}></div>
                                                     </div>
                                                     <span className="font-small ml-5 text-muted"> (32 reviews)</span>
                                                 </div>
+                                            </div> */}
+                                            <div className="product-detail-rating" >
+                                                <div className="product-rate-cover text-end" dir="ltr">
+                                                    <div className=" d-inline-block">
+                                                    ISBN
+                                                    </div>
+                                                    <span className="font-small ml-5 text-muted"> {product.isbn}</span>
+                                                </div>
                                             </div>
-                                            <div className="clearfix product-price-cover">
+                                           {/*  <div className="clearfix product-price-cover">
                                                 <div className="product-price primary-color float-left">
                                                     <span className="current-price  text-brand">${product.price}</span>
                                                     <span>
@@ -83,43 +91,26 @@ const ProductDetails = ({
                                                         <span className="old-price font-md ml-15">{product.oldPrice ? `$ ${product.oldPrice}` : null}</span>
                                                     </span>
                                                 </div>
-                                            </div>
+                                            </div> */}
 
                                             <div className="short-desc mb-30">
                                                 <p className="font-lg">{product.desc}</p>
                                             </div>
                                             <div className="attr-detail attr-color mb-15">
-                                                <strong className="mr-10">Color</strong>
-                                                <ul className="list-filter color-filter">
-                                                    {product.variations.map((clr, i) => (
-                                                        <li key={i}>
-                                                            <a href="#">
-                                                                <span className={`product-color-${clr}`}></span>
-                                                            </a>
-                                                        </li>
-                                                    ))}
-                                                </ul>
+                                                <strong className="mr-10">الأبعاد : </strong>
+                                                <div className="list-filter color-filter">
+                                                  {` ${product.size} سم `}
+                                                </div>
                                             </div>
                                             <div className="attr-detail attr-size">
-                                                <strong className="mr-10">Size</strong>
-                                                <ul className="list-filter size-filter font-small">
-                                                    <li className="active">
-                                                        <a>M</a>
-                                                    </li>
-                                                    <li>
-                                                        <a>L</a>
-                                                    </li>
-                                                    <li>
-                                                        <a>XL</a>
-                                                    </li>
-                                                    <li>
-                                                        <a>XXL</a>
-                                                    </li>
-                                                </ul>
+                                                <strong className="mr-10">عدد الصفحات : </strong>
+                                                <div className="list-filter color-filter">
+                                                  {product.pages}
+                                                </div>
                                             </div>
                                             <div className="bt-1 border-color-1 mt-30 mb-30"></div>
                                             <div className="detail-extralink">
-                                                <div className="detail-qty border radius">
+                                               {/*  <div className="detail-qty border radius">
                                                     <a onClick={(e) => (!inCart ? setQuantity(quantity > 1 ? quantity - 1 : 1) : decreaseQuantity(product?.id))} className="qty-down">
                                                         <i className="fi-rs-angle-small-down"></i>
                                                     </a>
@@ -127,7 +118,7 @@ const ProductDetails = ({
                                                     <a onClick={() => (!inCart ? setQuantity(quantity + 1) : increaseQuantity(product.id))} className="qty-up">
                                                         <i className="fi-rs-angle-small-up"></i>
                                                     </a>
-                                                </div>
+                                                </div> */}
                                                 <div className="product-extra-link2">
                                                     <button
                                                         onClick={(e) =>
@@ -138,17 +129,17 @@ const ProductDetails = ({
                                                         }
                                                         className="button button-add-to-cart"
                                                     >
-                                                        Add to cart
+                                                        تنزيل عينة
                                                     </button>
-                                                    <a aria-label="Add To Wishlist" className="action-btn hover-up" onClick={(e) => handleWishlist(product)}>
+    {/*                                                 <a aria-label="Add To Wishlist" className="action-btn hover-up" onClick={(e) => handleWishlist(product)}>
                                                         <i className="fi-rs-heart"></i>
-                                                    </a>
+                                                    </a> */}
                                                     <a aria-label="Compare" className="action-btn hover-up" onClick={(e) => handleCompare(product)}>
                                                         <i className="fi-rs-shuffle"></i>
                                                     </a>
                                                 </div>
                                             </div>
-                                            <ul className="product-meta font-xs color-grey mt-50">
+                                           {/*  <ul className="product-meta font-xs color-grey mt-50">
                                                 <li className="mb-5">
                                                     SKU:
                                                     <a href="#">FWM15VKT</a>
@@ -163,7 +154,7 @@ const ProductDetails = ({
                                                     Availability:
                                                     <span className="in-stock text-success ml-5">{product.stock} Items In Stock</span>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
                                         </div>
                                     </div>
                                 </div>

@@ -66,7 +66,7 @@ const ProductsFullWidth = ({ products, productFilters, fetchProduct }) => {
     return (
         <>
             <Layout parent="Home" sub="Shop" subChild="Filter">
-                <section className="mt-50 mb-50">
+                <section className="mt-50 mb-50" dir="rtl">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
