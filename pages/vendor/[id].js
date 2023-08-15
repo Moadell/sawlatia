@@ -77,7 +77,7 @@ const Products = ({ products, productFilters, fetchProduct }) => {
     return (
         <>
             <Layout parent="Home" sub="Store  " subChild="About">
-                <section className="mt-50 mb-50">
+                <section className="mt-50 mb-50" dir="rtl">
                     <div className="container mb-30">
                         <div className="row flex-row-reverse">
                             <div className="col-lg-4-5">

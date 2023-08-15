@@ -6,7 +6,10 @@
         "id": "1",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "size":"21.5*28",
+        "isbn":"978-977-6292-60-4",
+        "pages":"40",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
@@ -70,7 +73,7 @@
         "moreLove": true,
         "id": "2",
         "price": 78,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-2-1.jpg"
@@ -127,7 +130,7 @@
         "moreLove": true,
         "id": "3",
         "price": 35,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-3-1.jpg"
@@ -184,7 +187,7 @@
         "moreLove": true,
         "id": "4",
         "price": 55,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-4-1.jpg"
@@ -241,7 +244,7 @@
         "moreLove": true,
         "id": "5",
         "price": 110,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-5-1.jpg"
@@ -298,7 +301,7 @@
         "moreLove": true,
         "id": "6",
         "price": 150,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-6-1.jpg"
@@ -355,7 +358,7 @@
         "moreLove": true,
         "id": "7",
         "price": 98,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-7-1.jpg"
@@ -412,7 +415,7 @@
         "moreLove": true,
         "id": "8",
         "price": 24,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-8-1.jpg"
@@ -469,7 +472,7 @@
         "moreLove": true,
         "id": "9",
         "price": 146,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-9-1.jpg"
@@ -526,7 +529,7 @@
         "moreLove": true,
         "id": "10",
         "price": 67,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-10-1.jpg"
@@ -583,7 +586,7 @@
         "moreLove": true,
         "id": "11",
         "price": 116,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-11-1.jpg"
@@ -640,7 +643,7 @@
         "moreLove": true,
         "id": "12",
         "price": 73,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-12-1.jpg"
@@ -698,7 +701,7 @@
         "id": "13",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-13-1.jpg"
@@ -757,7 +760,7 @@
         "id": "14",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-14-1.jpg"
@@ -816,7 +819,7 @@
         "id": "15",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-15-1.jpg"
@@ -875,7 +878,7 @@
         "id": "16",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
@@ -946,7 +949,7 @@
         "id": "17",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
@@ -1017,7 +1020,7 @@
         "id": "18",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
@@ -1088,7 +1091,7 @@
         "id": "19",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
@@ -1159,7 +1162,7 @@
         "id": "20",
         "price": 238.85,
         "oldPrice": 245.8,
-        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+        "desc": "لكن يجب أن أشرح لك كيف ولدت كل هذه الفكرة الخاطئة المتمثلة في إدانة السرور ومدح الألم ، وسأقدم لك وصفًا كاملاً للنظام ، وأشرح التعاليم الفعلية للمستكشف العظيم للحقيقة ، الباني البارع. السعادة البشرية. لا أحد يرفض أو يكره أو يتجنب المتعة نفسها ، لأنها متعة ، ولكن لأن أولئك الذين لا يعرفون كيفية السعي وراء المتعة يواجهون عواقب مؤلمة للغاية. ولا يوجد أيضًا أي شخص يحب أو يسعى أو يرغب في الحصول على الألم من نفسه ،",
         "images": [
             {
                 "img": "/assets/imgs/shop/product-1-1.jpg"
