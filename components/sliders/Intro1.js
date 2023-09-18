@@ -26,7 +26,7 @@ const Intro1 = () => {
                                 "url(assets/imgs/slider/slider-1.png)",
                         }}
                     >
-                        <div className="slider-content">
+                      {/*   <div className="slider-content">
                             <h1 className="display-2 mb-40">
                                 الدار الصولتية
                                 <br />
@@ -44,7 +44,7 @@ const Intro1 = () => {
                                 اشتراك
                                 </button>
                             </form>
-                        </div>
+                        </div> */}
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -55,7 +55,7 @@ const Intro1 = () => {
                                 "url(assets/imgs/slider/slider-2.png)",
                         }}
                     >
-                        <div className="slider-content">
+                       {/*  <div className="slider-content">
                             <h1 className="display-2 mb-40">
                                 Fresh Vegetables
                                 <br />
@@ -73,7 +73,7 @@ const Intro1 = () => {
                                     Subscribe
                                 </button>
                             </form>
-                        </div>
+                        </div> */}
                     </div>
                 </SwiperSlide>
             </Swiper>
